@@ -11,9 +11,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1   | ⍞⌹⍠
-## Header 2  | 역방향
-### Header 3 | ⦕⍵×3⦖¨⟅13⋄17⋄19⋄31⟆→삼루타 
+# Header 1   | ⦕⍵×3⦖→삼루타
+## Header 2  | ⟅13⋄17⋄19⋄31⟆→피연산자
+### Header 3 | 삼루타¨피연산자→결과 
 
 - Bulleted
 - List
